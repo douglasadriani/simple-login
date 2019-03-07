@@ -9,5 +9,5 @@
 **Output/ User Interface**
 
 <p align="center">
-  <img width="460" height="400" src="https://user-images.githubusercontent.com/44419783/53928800-67c24d00-40c6-11e9-9ed0-d07924b0377e.PNG">
+  <img width="400" height="400" src="https://user-images.githubusercontent.com/44419783/53928800-67c24d00-40c6-11e9-9ed0-d07924b0377e.PNG">
 </p>
